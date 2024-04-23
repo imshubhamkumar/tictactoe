@@ -1,3 +1,11 @@
+
+![image](https://github.com/imshubhamkumar/tictactoe/assets/26022328/0fab27c8-aad0-4d2f-a6ea-9c86be3cd407)
+
+![image](https://github.com/imshubhamkumar/tictactoe/assets/26022328/90f3ea30-3d47-4bf5-9cad-8cb351a8ce58)
+
+![image](https://github.com/imshubhamkumar/tictactoe/assets/26022328/66c8a43a-1586-4a5b-9431-decd01699661)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
